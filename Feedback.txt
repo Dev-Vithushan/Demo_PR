@@ -1,5 +1,8 @@
 understand = input ("Did you understand ?")
 if understand == "yes" 
 	print (" Very good")
-else:
+elif:
 	print (" Practise more ") 
+	
+else:
+	print("over")
